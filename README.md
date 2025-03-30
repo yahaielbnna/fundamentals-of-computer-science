@@ -16,6 +16,22 @@ let's start on it. 🔥
 I'll try to provide every point with a description of why to study it and resources that can help you
 
 ## History of computers
+Understanding the history of computers is more than just knowing dates—it’s about discovering how technology evolved, learning from past mistakes, and recognizing the pioneers who shaped the digital world. 
+
+every innovation builds on the past.
+
+Studying this history not only deepens your knowledge of computer science but also helps you predict future trends and make smarter technological choices.
+
+### Articles
+  
+  1. [geeksforgeeks](https://www.geeksforgeeks.org/history-of-computers/)
+  2. [britannica](https://www.britannica.com/technology/computer/Early-business-machines)
+  3. [computerhistory](https://www.computerhistory.org/timeline/computers/)
+
+### Videos
+  1. [Awesome | A Complete History of Computers](https://www.youtube.com/watch?v=4R9IqNE7ZqA&ab_channel=Awesome)
+  2. [NewMediaAcademyLife | الدحيح - تاريخ الكمبيوتر](https://www.youtube.com/watch?v=suhaKEbaf1w&t=1083s&ab_channel=NewMediaAcademyLife)
+
 
 ## Basic computer configuration (Hardware)
 
