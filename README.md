@@ -53,7 +53,17 @@ Mastering these basics helps you troubleshoot issues, optimize performance, and 
   * [Fireship | 100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis&ab_channel=Fireship)
 
 ## Input & Output Devices
+Understanding inputs and outputs is key to mastering how computers interact with the world.
 
+Every action—typing on a keyboard, clicking a mouse, or speaking to a voice assistant—feeds data into a system, while screens, speakers, and printers bring results to life.
+
+Grasping this fundamental concept helps you design better systems, troubleshoot effectively, and appreciate the seamless flow of digital communication.
+
+#### Articles
+  * [geeksforgeeks](https://www.geeksforgeeks.org/input-and-output-devices/)
+
+#### Videos
+  * [MrBrownCS | Input, Output, and Communications Devices](https://www.youtube.com/watch?v=g8C5aUCFM5o&ab_channel=MrBrownCS)
 ## Storage and memories
 
 ## Operating Systems
